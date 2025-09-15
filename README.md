@@ -75,6 +75,7 @@ Clone o repositório:
 ```bash
 git clone https://github.com/RanndaLL0/Memory_database.git
 cd Memory_database
+```
 
 Compile o projeto Rust:
 ```
