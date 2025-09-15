@@ -1,0 +1,11 @@
+/home/Ramos/banco_de_dados/Memory_database/target/debug/deps/serde-e03a9aad1a50ceff.d: /home/Ramos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.223/src/lib.rs /home/Ramos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.223/src/integer128.rs /home/Ramos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.223/src/private/mod.rs /home/Ramos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.223/src/private/de.rs /home/Ramos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.223/src/private/ser.rs
+
+/home/Ramos/banco_de_dados/Memory_database/target/debug/deps/libserde-e03a9aad1a50ceff.rlib: /home/Ramos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.223/src/lib.rs /home/Ramos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.223/src/integer128.rs /home/Ramos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.223/src/private/mod.rs /home/Ramos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.223/src/private/de.rs /home/Ramos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.223/src/private/ser.rs
+
+/home/Ramos/banco_de_dados/Memory_database/target/debug/deps/libserde-e03a9aad1a50ceff.rmeta: /home/Ramos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.223/src/lib.rs /home/Ramos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.223/src/integer128.rs /home/Ramos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.223/src/private/mod.rs /home/Ramos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.223/src/private/de.rs /home/Ramos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.223/src/private/ser.rs
+
+/home/Ramos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.223/src/lib.rs:
+/home/Ramos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.223/src/integer128.rs:
+/home/Ramos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.223/src/private/mod.rs:
+/home/Ramos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.223/src/private/de.rs:
+/home/Ramos/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.223/src/private/ser.rs:
